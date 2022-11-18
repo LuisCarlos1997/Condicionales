@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="I as a user want to validate the condition on the lab page" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-17T23:05:13" hostname="LVALENCIA" time="20.403">
+  <properties/>
+  <testcase name="validate the conditional" classname="I as a user want to validate the condition on the lab page" time="20.403"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/lvalencia1/Desktop/CARPETAS/IUVITY/automatizacion/condicional/src/test/resources/features/condicional.feature
+[Test worker] INFO  - 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+validate the conditional(i-as-a-user-want-to-validate-the-condition-on-the-lab-page;validate-the-conditional)
+--------------------------------------------------------------------------------
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.DriverProvider - Using WebDriverManager configuration for firefox
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 107)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\lvalencia1\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe
+1668726315539	geckodriver	INFO	Listening on 127.0.0.1:39101
+Read port: 58639
+WebDriver BiDi listening on ws://127.0.0.1:37596
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LVALEN~1\\AppData\\Local\\Temp\\rust_mozprofilewbuade\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37596/devtools/browser/2e716324-3a40-4ff1-aa1f-d8516e40bdbb
+[Test worker] INFO  - 
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+validate the conditional
+----------------------------------------------------------------------
+]]></system-err>
+</testsuite>
