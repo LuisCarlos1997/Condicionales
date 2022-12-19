@@ -2,8 +2,6 @@ package userinterfaces;
 
 import net.serenitybdd.screenplay.targets.Target;
 
-import java.awt.*;
-
 public class CondicionalUserinterface {
 
     public static final Target BTN_GENERATE_COLOR = Target.the("Dar clic en el boton generar color")
